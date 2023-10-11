@@ -1,1 +1,1 @@
-hello = lambda s: print(f"Hello, {s}")
+hello = lambda s: f"Hello, {s}"
